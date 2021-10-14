@@ -6,7 +6,7 @@
 <hr>
 
 ## Open Source | Developer Relations
-### Developer Evangelism Manager at [Rocket.Chat](https://github.com/RocketChat)
+### Developer Relations Manager at [Rocket.Chat](https://github.com/RocketChat)
 
 <p>
     <a href="https://www.twitter.com/yashovardhan/" target="blank">
@@ -23,7 +23,7 @@
     </a>
 </p>
 
-I am a Developer Relations professional with a knack for JavaScript. I aim to empower the developer community by helping them find a place in the welcoming world of open source and explore the technology sector from a different perspective. I am the Developer Evangelism Manager at Rocket.Chat, an open source communication platform. I love sharing my ideas through my writings or by taking sessions, hosting conferences, or being around at tech events!
+I am a Developer Relations professional with a knack for JavaScript. I aim to empower the developer community by helping them find a place in the welcoming world of open source and explore the technology sector from a different perspective. I love sharing my ideas through my writings or by taking sessions, hosting conferences, or being around at tech events!
 
 
 I recently started <a href="https://devrel.page">DevRel.Page</a>, an umbrella initiative to help students and early age professionals find their way into Developer Relations. I have been working as a DevRel consultant with various companies, including GitHub, MLH, Grouparoo and many others! Notably, I have hosted some of the top international developer conferences like GitHub Universe, GitHub Satellite India, MLH Hackcon & Local Hack Day and have given multiple talks on open source development in 30+ institutes of India and abroad.
