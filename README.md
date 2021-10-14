@@ -5,7 +5,7 @@
 [![Watchers](https://img.shields.io/github/watchers/yashovardhan/yashovardhan)](https://yashovardhan.dev)
 <hr>
 
-## Open Source | Developer Relations
+## JavaScript | Open Source | Developer Relations
 ### Developer Relations Manager at [Rocket.Chat](https://github.com/RocketChat)
 
 <p>
