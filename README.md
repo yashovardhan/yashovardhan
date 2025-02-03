@@ -1,19 +1,6 @@
 # Hi, I'm Yash 👋
 
-<p>
-    <a href="https://www.x.com/yashovardhan/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg" alt="Twitter" height="30" width="40" />
-    </a>
-    <a href="https://t.me/yashweb3">
-        <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/telegram.svg" alt="Telegram" height="30" width="40" />
-    </a>
-    <a href="https://www.linkedin.com/in/yashovardhanagrawal/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@yashovardhana" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium.svg" alt="Medium" height="30" width="40" />
-    </a>
-</p>
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/twitter-x.svg)](https://www.x.com/yashovardhan/)&nbsp;&nbsp;&nbsp;&nbsp;[![Telegram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/telegram.svg)](https://t.me/yashweb3)&nbsp;&nbsp;&nbsp;&nbsp;[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/linkedin.svg)](https://www.linkedin.com/in/yashovardhanagrawal/)&nbsp;&nbsp;&nbsp;&nbsp;[![Medium](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/colored/medium.svg)](https://medium.com/@yashovardhana)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yashovardhan)](https://yashovardhan.dev)
 [![Stars](https://img.shields.io/github/stars/yashovardhan)](https://yashovardhan.dev)
