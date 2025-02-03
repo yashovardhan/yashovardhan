@@ -6,8 +6,6 @@
 [![Stars](https://img.shields.io/github/stars/yashovardhan)](https://yashovardhan.dev)
 [![Twitter](https://img.shields.io/twitter/follow/yashovardhan)](https://twitter.com/yashovardhan)
 
----
-
 ## JavaScript | Web3 | Open Source | Developer Relations
 
 ### About Me
